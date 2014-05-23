@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397359241 source:c:\users\apoorv\skydrive\programming workspaces\c++ workspace\google code jam\gcj - qual 2014 b\main.cpp
+	<iomanip>
+	<stdio.h>
+	<fstream>
+

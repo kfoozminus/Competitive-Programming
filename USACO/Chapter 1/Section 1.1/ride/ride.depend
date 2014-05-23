@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397372975 source:c:\users\apoorv\skydrive\programming workspaces\c++ workspace\usaco\ride\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

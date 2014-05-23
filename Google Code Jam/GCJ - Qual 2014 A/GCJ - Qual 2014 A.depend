@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1397279624 source:c:\users\vkhandel\desktop\apoorv\c++ workspace\gcj - qual 2014 a\main.cpp
+	<iostream>
+
+1397334460 source:c:\users\apoorv\skydrive\programming workspaces\c++ workspace\google code jam\gcj - qual 2014 a\main.cpp
+	<iostream>
+	<fstream>
+
