@@ -7,7 +7,7 @@ USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   	- [x] test
   	- [x] ride
   	- [x] gift1
-	- [ ] friday
+	- [x] friday
 	- [ ] beads
 
 Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.html)
