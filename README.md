@@ -6,9 +6,13 @@ USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   - Chapter 1 Selection 1.1
   	- [x] test
   	- [x] ride
-  	- [ ] gift1
+  	- [x] gift1
+	- [ ] friday
+	- [ ] beads
 
 Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.html)
   - 2014 Qualifier Round
   	- [x] Problem A
   	- [ ] Problem B
+	- [ ] Problem C
+	- [ ] Problem D
