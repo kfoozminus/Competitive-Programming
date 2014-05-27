@@ -3,7 +3,7 @@ C++ Computing Problems
 USACO and Google Code Jam problem solutions by Apoorv Khandelwal in C++
 
 USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
-  - Chapter 1 Selection 1.1
+  - Selection 1.1
   	- [x] test
   	- [x] ride
   	- [x] gift1
@@ -16,3 +16,7 @@ Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.h
   	- [ ] Problem B
 	- [ ] Problem C
 	- [ ] Problem D
+  - 2014 Round 1
+	- [ ] Round 1A
+	- [ ] Round 1B
+	- [ ] Round 1C
