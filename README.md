@@ -16,7 +16,20 @@ Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.h
   	- [ ] Problem B
 	- [ ] Problem C
 	- [ ] Problem D
-  - 2014 Round 1
-	- [ ] Round 1A
-	- [ ] Round 1B
-	- [ ] Round 1C
+  - [ ] 2014 Round 1A
+	- [ ] Problem A
+  	- [ ] Problem B
+	- [ ] Problem C
+  - [ ] 2014 Round 1B
+	- [ ] Problem A
+  	- [ ] Problem B
+	- [ ] Problem C
+  - [ ] 2014 Round 1C
+	- [ ] Problem A
+  	- [ ] Problem B
+	- [ ] Problem C
+  - [ ] 2014 Round 2
+  	- [ ] Problem A
+  	- [ ] Problem B
+	- [ ] Problem C
+	- [ ] Problem D
