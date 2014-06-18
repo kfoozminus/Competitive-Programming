@@ -1,6 +1,6 @@
 Computing Problems
 ========================
-Programming contest problem solutions by Apoorv Khandelwal in <font color='green'>C++</font> and <font color='red'>Java</font>
+Programming contest problem solutions by Apoorv Khandelwal in <span style="color:red">C++</span> and <font color='red'>Java</font>
 
 USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   - Selection 1.1
