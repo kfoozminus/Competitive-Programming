@@ -4,21 +4,21 @@ Programming contest problem solutions by Apoorv Khandelwal in C++ and Java
 
 USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   - Selection 1.1
-  	- [x] test *C++*
-  	- [x] ride *C++*
-  	- [x] gift1 *C++*
-	- [x] friday *C++*
+  	- [x] test **_*(C++)*_**
+  	- [x] ride **_*(C++)*_**
+  	- [x] gift1 **_*(C++)*_**
+	- [x] friday **_*(C++)*_**
 	- [ ] beads
 
 Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.html)
   - 2014 Qualification Round
-  	- [x] Problem A *C++*
-  	- [ ] Problem B
+  	- [x] Problem A **_*(C++)*_**
+  	- [ ] Problem B **_*(C++)*_**
 	- [ ] Problem C
 	- [ ] Problem D
 
   - 2012 Qualification Round
-  	- [ ] Problem A *Java*
+  	- [ ] Problem A **_*(Java)*_**
   	- [ ] Problem B
 	- [ ] Problem C
 	- [ ] Problem D
