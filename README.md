@@ -1,35 +1,24 @@
 Computing Problems
 ========================
-Programming contest problem solutions by Apoorv Khandelwal in <span style="color:red">C++</span> and <font color='red'>Java</font>
+Programming contest problem solutions by Apoorv Khandelwal in C++ and Java
 
 USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   - Selection 1.1
-  	- [x] <font color='red'>test</font>
-  	- [x] <font color='red'>ride</font>
-  	- [x] <font color='red'>gift1</font>
-	- [x] <font color='red'>friday</font>
+  	- [x] test *C++*
+  	- [x] ride *C++*
+  	- [x] gift1 *C++*
+	- [x] friday *C++*
 	- [ ] beads
 
 Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.html)
-  - 2014 Qualifier Round
-  	- [x] <font color='red'>Problem A</font>
+  - 2014 Qualification Round
+  	- [x] Problem A *C++*
   	- [ ] Problem B
 	- [ ] Problem C
 	- [ ] Problem D
-  - [ ] 2014 Round 1A
-	- [ ] Problem A
-  	- [ ] Problem B
-	- [ ] Problem C
-  - [ ] 2014 Round 1B
-	- [ ] Problem A
-  	- [ ] Problem B
-	- [ ] Problem C
-  - [ ] 2014 Round 1C
-	- [ ] Problem A
-  	- [ ] Problem B
-	- [ ] Problem C
-  - [ ] 2014 Round 2
-  	- [ ] Problem A
+
+  - 2012 Qualification Round
+  	- [ ] Problem A *Java*
   	- [ ] Problem B
 	- [ ] Problem C
 	- [ ] Problem D
