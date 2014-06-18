@@ -1,18 +1,18 @@
-C++ Computing Problems
+Computing Problems
 ========================
-USACO and Google Code Jam problem solutions by Apoorv Khandelwal in C++
+Programming contest problem solutions by Apoorv Khandelwal in <font color='green'>C++</font> and <font color='red'>Java</font>
 
 USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   - Selection 1.1
-  	- [x] test
-  	- [x] ride
-  	- [x] gift1
-	- [x] friday
+  	- [x] <font color='red'>test</font>
+  	- [x] <font color='red'>ride</font>
+  	- [x] <font color='red'>gift1</font>
+	- [x] <font color='red'>friday</font>
 	- [ ] beads
 
 Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.html)
   - 2014 Qualifier Round
-  	- [x] Problem A
+  	- [x] <font color='red'>Problem A</font>
   	- [ ] Problem B
 	- [ ] Problem C
 	- [ ] Problem D
