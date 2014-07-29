@@ -13,6 +13,9 @@ USACO - [Training Portal](http://cerberus.delos.com:790/usacogate)
   - Selection 1.2
   	- [x] milk2 **_*(C++)*_**
 	- [x] transform **_*(C++)*_**
+	- [x] namenum **_*(C++)*_**
+	- [x] palsquare **_*(C++)*_**
+	- [ ] dualpal **_*(C++)*_**
 
 Google Code Jam - [Practice Problems](https://code.google.com/codejam/contests.html)
   - 2014 Qualification Round

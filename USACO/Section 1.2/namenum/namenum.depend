@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1406524815 source:c:\users\apoorv\skydrive\programming workspaces\c++ workspace\usaco\section 1.2\namenum\main.cpp
+	<fstream>
+	<math.h>
+
+1406567099 source:e:\java class\namenum\main.cpp
+	<fstream>
+	<math.h>
+	<string>
+	<iostream>
+
