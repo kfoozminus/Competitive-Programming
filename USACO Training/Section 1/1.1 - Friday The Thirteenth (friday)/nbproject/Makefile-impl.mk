@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Friday The Thirteenth - friday (1.1)
+PROJECTNAME=1.1 - Friday The Thirteenth (friday)
 
 # Active Configuration
 DEFAULTCONF=Debug

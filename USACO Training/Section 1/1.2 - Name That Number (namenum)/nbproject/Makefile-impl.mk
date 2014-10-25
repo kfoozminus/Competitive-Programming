@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Name That Number - namenum (1.2)
+PROJECTNAME=1.2 - Name That Number (namenum)
 
 # Active Configuration
 DEFAULTCONF=Debug

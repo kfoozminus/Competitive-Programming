@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Milking Cows - milk2 (1.2)
+PROJECTNAME=1.2 - Milking Cows (milk2)
 
 # Active Configuration
 DEFAULTCONF=Debug

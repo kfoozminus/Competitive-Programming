@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Greedy Gift Givers - gift1 (1.1)
+PROJECTNAME=1.1 - Greedy Gift Givers (gift1)
 
 # Active Configuration
 DEFAULTCONF=Debug

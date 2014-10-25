@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=name_that_number_-_namenum__1.2_
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/name_that_number_-_namenum__1.2_
+CND_ARTIFACT_NAME_Debug=1.2_-_name_that_number__namenum_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/1.2_-_name_that_number__namenum_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=namethatnumber-namenum(1.2).tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/namethatnumber-namenum(1.2).tar
+CND_PACKAGE_NAME_Debug=1.2-namethatnumber(namenum).tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/1.2-namethatnumber(namenum).tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=name_that_number_-_namenum__1.2_
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/name_that_number_-_namenum__1.2_
+CND_ARTIFACT_NAME_Release=1.2_-_name_that_number__namenum_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/1.2_-_name_that_number__namenum_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=namethatnumber-namenum(1.2).tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/namethatnumber-namenum(1.2).tar
+CND_PACKAGE_NAME_Release=1.2-namethatnumber(namenum).tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/1.2-namethatnumber(namenum).tar
 #
 # include compiler specific variables
 #

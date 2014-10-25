@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Mixing Milk - milk (1.3)
+PROJECTNAME=1.3 - Mixing Milk (milk)
 
 # Active Configuration
 DEFAULTCONF=Debug

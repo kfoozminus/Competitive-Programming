@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=greedy_gift_givers_-_gift1__1.1_
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/greedy_gift_givers_-_gift1__1.1_
+CND_ARTIFACT_NAME_Debug=1.1_-_greedy_gift_givers__gift1_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/1.1_-_greedy_gift_givers__gift1_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=greedygiftgivers-gift1(1.1).tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/greedygiftgivers-gift1(1.1).tar
+CND_PACKAGE_NAME_Debug=1.1-greedygiftgivers(gift1).tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/1.1-greedygiftgivers(gift1).tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=greedy_gift_givers_-_gift1__1.1_
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/greedy_gift_givers_-_gift1__1.1_
+CND_ARTIFACT_NAME_Release=1.1_-_greedy_gift_givers__gift1_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/1.1_-_greedy_gift_givers__gift1_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=greedygiftgivers-gift1(1.1).tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/greedygiftgivers-gift1(1.1).tar
+CND_PACKAGE_NAME_Release=1.1-greedygiftgivers(gift1).tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/1.1-greedygiftgivers(gift1).tar
 #
 # include compiler specific variables
 #

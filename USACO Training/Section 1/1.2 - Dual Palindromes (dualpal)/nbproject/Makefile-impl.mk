@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Dual Palindromes - dualpal (1.2)
+PROJECTNAME=1.2 - Dual Palindromes (dualpal)
 
 # Active Configuration
 DEFAULTCONF=Debug

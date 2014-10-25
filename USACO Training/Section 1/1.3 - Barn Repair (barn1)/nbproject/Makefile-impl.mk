@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Barn Repair - barn1 (1.3)
+PROJECTNAME=1.3 - Barn Repair (barn1)
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=transformations_-_transform__1.2_
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/transformations_-_transform__1.2_
+CND_ARTIFACT_NAME_Debug=1.2_-_transformations__transform_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/1.2_-_transformations__transform_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=transformations-transform(1.2).tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/transformations-transform(1.2).tar
+CND_PACKAGE_NAME_Debug=1.2-transformations(transform).tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/1.2-transformations(transform).tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=transformations_-_transform__1.2_
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/transformations_-_transform__1.2_
+CND_ARTIFACT_NAME_Release=1.2_-_transformations__transform_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/1.2_-_transformations__transform_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=transformations-transform(1.2).tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/transformations-transform(1.2).tar
+CND_PACKAGE_NAME_Release=1.2-transformations(transform).tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/1.2-transformations(transform).tar
 #
 # include compiler specific variables
 #

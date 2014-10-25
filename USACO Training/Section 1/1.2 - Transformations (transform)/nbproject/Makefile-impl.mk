@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Transformations - transform (1.2)
+PROJECTNAME=1.2 - Transformations (transform)
 
 # Active Configuration
 DEFAULTCONF=Debug

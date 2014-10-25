@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Your Ride Is Here - ride (1.1)
+PROJECTNAME=1.1 - Your Ride Is Here (ride)
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Palindromic Squares - palsquare (1.2)
+PROJECTNAME=Prime Cryptarithm - crypt1 (1.3)
 
 # Active Configuration
 DEFAULTCONF=Debug

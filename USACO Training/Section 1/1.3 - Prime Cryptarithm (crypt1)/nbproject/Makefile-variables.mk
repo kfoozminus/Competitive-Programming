@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=palindromic_squares_-_palsquare__1.2_
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/palindromic_squares_-_palsquare__1.2_
+CND_ARTIFACT_NAME_Debug=prime_cryptarithm_-_crypt1__1.3_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/prime_cryptarithm_-_crypt1__1.3_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=palindromicsquares-palsquare(1.2).tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/palindromicsquares-palsquare(1.2).tar
+CND_PACKAGE_NAME_Debug=primecryptarithm-crypt1(1.3).tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/primecryptarithm-crypt1(1.3).tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=palindromic_squares_-_palsquare__1.2_
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/palindromic_squares_-_palsquare__1.2_
+CND_ARTIFACT_NAME_Release=prime_cryptarithm_-_crypt1__1.3_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/prime_cryptarithm_-_crypt1__1.3_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=palindromicsquares-palsquare(1.2).tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/palindromicsquares-palsquare(1.2).tar
+CND_PACKAGE_NAME_Release=primecryptarithm-crypt1(1.3).tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/primecryptarithm-crypt1(1.3).tar
 #
 # include compiler specific variables
 #

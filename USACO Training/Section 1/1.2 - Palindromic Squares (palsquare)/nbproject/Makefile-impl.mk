@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Palindromic Squares - palsquare (1.2)
+PROJECTNAME=1.2 - Palindromic Squares (palsquare)
 
 # Active Configuration
 DEFAULTCONF=Debug

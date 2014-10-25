@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=mixing_milk_-_milk__1.3_
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/mixing_milk_-_milk__1.3_
+CND_ARTIFACT_NAME_Debug=1.3_-_mixing_milk__milk_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/1.3_-_mixing_milk__milk_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=mixingmilk-milk(1.3).tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/mixingmilk-milk(1.3).tar
+CND_PACKAGE_NAME_Debug=1.3-mixingmilk(milk).tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/1.3-mixingmilk(milk).tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=mixing_milk_-_milk__1.3_
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/mixing_milk_-_milk__1.3_
+CND_ARTIFACT_NAME_Release=1.3_-_mixing_milk__milk_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/1.3_-_mixing_milk__milk_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=mixingmilk-milk(1.3).tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/mixingmilk-milk(1.3).tar
+CND_PACKAGE_NAME_Release=1.3-mixingmilk(milk).tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/1.3-mixingmilk(milk).tar
 #
 # include compiler specific variables
 #
