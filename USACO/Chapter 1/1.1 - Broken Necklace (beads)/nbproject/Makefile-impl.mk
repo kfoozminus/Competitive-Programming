@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Broken Necklace - beads (1.1)
+PROJECTNAME=1.1 - Broken Necklace (beads)
 
 # Active Configuration
 DEFAULTCONF=Debug

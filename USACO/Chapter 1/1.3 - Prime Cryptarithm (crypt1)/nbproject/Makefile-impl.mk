@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Prime Cryptarithm - crypt1 (1.3)
+PROJECTNAME=1.3 - Prime Cryptarithm (crypt1)
 
 # Active Configuration
 DEFAULTCONF=Debug

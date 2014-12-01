@@ -13,9 +13,9 @@ CND_BUILDDIR=build
 CND_DLIB_EXT=dll
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/prime_cryptarithm_-_crypt1__1.3_
-OUTPUT_BASENAME=prime_cryptarithm_-_crypt1__1.3_
-PACKAGE_TOP_DIR=primecryptarithm-crypt1(1.3)/
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/1.3_-_prime_cryptarithm__crypt1_
+OUTPUT_BASENAME=1.3_-_prime_cryptarithm__crypt1_
+PACKAGE_TOP_DIR=1.3-primecryptarithm(crypt1)/
 
 # Functions
 function checkReturnCode
@@ -60,15 +60,15 @@ mkdir -p ${NBTMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory "${NBTMPDIR}/primecryptarithm-crypt1(1.3)/bin"
+makeDirectory "${NBTMPDIR}/1.3-primecryptarithm(crypt1)/bin"
 copyFileToTmpDir "${OUTPUT_PATH}.exe" "${NBTMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}.exe" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/primecryptarithm-crypt1\(1.3\).tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/1.3-primecryptarithm\(crypt1\).tar
 cd ${NBTMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/primecryptarithm-crypt1\(1.3\).tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/1.3-primecryptarithm\(crypt1\).tar *
 checkReturnCode
 
 # Cleanup
