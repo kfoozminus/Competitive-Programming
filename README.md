@@ -2,7 +2,7 @@ Computing Problems
 ========================
 Programming contest problem solutions by Apoorv Khandelwal in C++ and Java
 
-USACO Training - [Training Portal](http://cerberus.delos.com:790/usacogate)
+USACO Training - [Training Portal](http://train.usaco.org)
   - Section 1.1
   	- [x] test **_*(C++)*_**
   	- [x] ride **_*(C++)*_**
