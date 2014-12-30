@@ -13,6 +13,7 @@ Training - [Training Portal](http://train.usaco.org)
   	- [x] Section 1.5
   - [ ] Chapter 2
   	- [ ] Section 2.1
+
 Contests - [Monthly Contests](http://www.usaco.org/index.php?page=contests)
   - December 2014 Bronze *(600)*
 
