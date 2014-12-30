@@ -3,6 +3,7 @@ Computing Problems
 Programming contest problem solutions by Apoorv Khandelwal in **_*C++*_** and some Java
 
 **USACO**
+
 Training - [Training Portal](http://train.usaco.org)
   - [x] Chapter 1
   	- [x] Section 1.1
@@ -16,6 +17,7 @@ Contests - [Monthly Contests](http://www.usaco.org/index.php?page=contests)
   - December 2014 Bronze *(600)*
 
 **Google Code Jam**
+
 Problems - [Annual Contest & Practice](https://code.google.com/codejam/contests.html)
   - 2014 Qualification Round
   	- [x] Problem A
