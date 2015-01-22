@@ -37,3 +37,4 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+/JavaApplication3/nbproject/private/
