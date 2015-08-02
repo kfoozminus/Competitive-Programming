@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=2.1 - Sorting a Three-Valued Sequence (sort3)
+PROJECTNAME=2.1 - Sorting A Three-Valued Sequence (sort3)
 
 # Active Configuration
 DEFAULTCONF=Debug
